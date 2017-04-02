@@ -11,7 +11,6 @@
 #include <queue>
 #include <stack>
 #include <string>
-#include <bitset>
 #include <cstdio>
 #include <limits>
 #include <vector>
