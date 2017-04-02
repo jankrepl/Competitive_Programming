@@ -2,6 +2,7 @@
 // WWWW: https://www.hackerrank.com/challenges/a-very-big-sum/submissions/code/36866139
 // Author: Jan Krepl
 
+
 #include <cmath>
 #include <cstdio>
 #include <vector>

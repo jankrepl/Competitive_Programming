@@ -2,7 +2,6 @@
 // WWWW: https://www.hackerrank.com/challenges/diagonal-difference
 // Author: Jan Krepl
 
-
 #include <cmath>
 #include <cstdio>
 #include <vector>
