@@ -11,7 +11,7 @@ Profile: http://leetcode.com/krepl <br />
 
 ## Project Euler <br />
 www: http://projecteuler.net <br />
-Username: jankrepl <br />
+Profile: <br />
 ![alt tag](http://projecteuler.net/profile/jankrepl.png) <br />
 
 ## SPOJ <br />
