@@ -1,6 +1,6 @@
-# Name: Bot_Saves_Princess
-# WWWW: https://www.hackerrank.com/challenges/saveprincess
-# Author: Jan Krepl
+// Name: Bot_Saves_Princess
+// WWWW: https://www.hackerrank.com/challenges/saveprincess
+// Author: Jan Krepl
 
 
 #include <iostream>
