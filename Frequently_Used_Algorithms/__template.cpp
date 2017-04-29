@@ -21,6 +21,7 @@ using namespace std;
 /* Description */
 
 
+
 /* Tips and tricks */
 
 
@@ -28,6 +29,8 @@ using namespace std;
 
 
 /* Implementation #1 */
+
+
 
 
 /* Implementation #2 */
