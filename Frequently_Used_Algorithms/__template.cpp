@@ -25,12 +25,12 @@ using namespace std;
 /* Tips and tricks */
 
 
+
 /* Example problem */
 
 
+
 /* Implementation #1 */
-
-
 
 
 /* Implementation #2 */
