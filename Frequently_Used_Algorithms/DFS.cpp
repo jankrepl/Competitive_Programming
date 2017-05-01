@@ -50,10 +50,24 @@ void dfs(int start_node){
 
 
 
+/* Usages */
 
 // We can easily check if the graph is connected after running dfs
 bool is_connected(){
     return all_of(visited.begin(), visited.end(),[](bool a){return a;});
+}
+
+// We can count the number of connected components
+int n_connected(){
+    // we simply count the number of dfs to make all notes visited:D
+    int counter = 0;
+    for(int i = 0; i < N; i++){
+        if(!visited[i]){
+            counter++;
+            dfs(i);
+        }
+    }
+    return counter;
 }
 
 
