@@ -101,7 +101,8 @@ namespace imp_2{
 
   // Step 1 - Exponentiation by squaring
   // https://en.wikipedia.org/wiki/Exponentiation_by_squaring
-
+  // meaning you can just convert the exponent to binary ( or any representation)...and a^(23) = a^{(2^4) + (2^2) + (2^1) + (2^0)}
+  // (a^2)^4 * (a^2)^2 * ...) 
   unsigned long pow_mod_p (unsigned long a, unsigned long b, unsigned long p){
     unsigned long x = 1, y = a; 
     while(b > 0)
