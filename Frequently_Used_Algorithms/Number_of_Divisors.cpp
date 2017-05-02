@@ -37,7 +37,7 @@ using namespace std;
     // 2) Use divisor function property that d(p_1^n * p_2^m) = (n+1)*(m+1) --  more one wiki
 
 
-vector<int> prime_bank; // we assume we have a prime bank of sufficient size (prime_bank.back() >= x) ready...ith element is the ith smallest prime
+vector<long> prime_bank; // we assume we have a prime bank of sufficient size (prime_bank.back() >= sqrt(x)) ready...ith element is the ith smallest prime
 
 long num_of_divisors(long x){
     long res = 1; // we will iteratively mupltiply, thats why initializing with 1
