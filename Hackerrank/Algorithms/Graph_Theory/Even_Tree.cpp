@@ -24,6 +24,8 @@ using namespace std;
 /* Strategy */
 // Step 1) Create a node class
 // Step 2) Create tree as vector of pointers to nodes
+// Step 3) Go from the lowest layer...if a subtree starting from that child has even number of vertices
+        // just cut it out and count the cut
 
 int answer = 0;
 class Node{
