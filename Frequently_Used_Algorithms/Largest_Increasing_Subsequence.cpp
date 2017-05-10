@@ -54,7 +54,7 @@ using namespace std;
 
 const int max_N = 1e6 + 1;
 
-int memo[max_N]; // memo[i] = biggest increasing subsequence in the first i elements (including i)
+int memo[max_N]; // memo[i] = biggest increasing subsequence that ends with element seq[i] (including i)
 
 int main(){
   int N;
@@ -65,7 +65,6 @@ int main(){
   }
 
   // algorithm
-    // We go from the left an only consider first i elements.
     // recursive relation : memo[i] = max( memo[0] + 1, memo[1] + 1, ... , memo[i-j] + 1)
       //only for j where seq[j] > seq[i]...we are actually adding a higher element
   memo[0] = 1; // clear
