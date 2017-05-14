@@ -37,6 +37,8 @@ using namespace std;
 
 
 /* Implementation #1 */
+// you can put x and y equal to anything when calling:D
+
 int extendedGCD(int a, int b, int &x, int &y) {
     // everything divides 0
     if(b == 0) {
