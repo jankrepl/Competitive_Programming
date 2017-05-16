@@ -4,9 +4,11 @@
 | DFS  | Graph Theory  |      DONE        |                 |
 | Dec to Any Base| Bitwise  |  DONE         |                 |
 | Dec to Binary |  Bitwise |   DONE        |                 |
+| Dijkstra| Graph Theory   | TO DO  |              | 
 | Euclidian GCD|  Number Theory |   DONE     |              |
 | Extended Euclidian Algorithm| Number Theory  | DONE      |                 |
 | Jarvis March|  Geometric  | TO DO  |              | 
+| Kruskal MST|  Graph Theory  | TO DO  |              | 
 | KMP|   String | DONE  |              | 
 | Largest Increaing Subsequence| Dynamic Programming   |    DONE  |                 |
 | Maximum Subarray Sum Kadane|  Dynamic Programming  |  DONE       |                 |
