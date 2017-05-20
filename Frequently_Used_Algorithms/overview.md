@@ -19,4 +19,4 @@
 | |    |   |              | 
 
 ## Resources <br />
-www: http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/ <br />
+http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/ <br />
