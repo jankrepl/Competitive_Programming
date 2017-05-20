@@ -17,3 +17,6 @@
 | Set Union|  Misc  | DONE  |              | 
 | Sieve of Eratosthenes| Number Theory   | DONE  |              | 
 | |    |   |              | 
+
+## Resources <br />
+www: http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/ <br />
